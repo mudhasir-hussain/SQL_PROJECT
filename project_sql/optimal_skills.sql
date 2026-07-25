@@ -49,3 +49,22 @@ ORDER BY
     demand_count DESC,
     average_sal DESC
     LIMIT 25;
+
+
+
+/*
+
+A fun way I use to remember the usual SQL query-writing order:
+
+> ☀ **Sam Found Jack While Going Home On Leave**
+
+Sam → SELECT
+Found → FROM
+Jack → JOIN ... ON
+While → WHERE
+Going → GROUP BY
+Home → HAVING
+On → ORDER BY
+Leave → LIMIT / OFFSET
+
+*/
