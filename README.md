@@ -28,7 +28,7 @@ The dataset contains job postings for data-related roles, including:
 - Job locations
 - Required technical skills
 
-The dataset was provided as part of Luke Barousse's SQL course for educational purposes.
+
 
 ## Technologies Used
 
@@ -177,10 +177,7 @@ SQL_PROJECT/
 
 This project was completed while following the SQL course by [Luke Barousse](https://lukebarousse.com/sql).
 
-The project idea, dataset, and learning material originate from the course. This repository represents my own implementation and learning experience.
-
-- [Course](https://lukebarousse.com/sql)
-- [YouTube Channel](https://www.youtube.com/@LukeBarousse)
+This repository represents my own implementation and learning experience.
 
 ## Future Improvements
 
