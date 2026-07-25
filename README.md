@@ -112,7 +112,7 @@ This analysis identifies the technologies that appear most frequently across Dat
 - Excel continues to be widely used.
 - Python and business-intelligence tools are highly desirable.
 
-![Most In-Demand Skills](assets/top_demanded_skills.png)
+
 
 ### 4. Highest-Paying Skills
 
@@ -126,7 +126,7 @@ I calculated the average salary associated with each technical skill.
 - Engineering-focused technologies often pay more than traditional reporting tools.
 - Advanced technical skills can significantly increase salary potential.
 
-![Highest Paying Skills](assets/top_paying_skills.png)
+
 
 ### 5. Best Skills to Learn
 
@@ -138,7 +138,6 @@ This analysis combines salary and demand data to identify the skills with the st
 
 Skills such as SQL, Python, Snowflake, AWS, Azure, and Tableau offer an excellent balance between employer demand and salary potential.
 
-![Best Skills to Learn](assets/optimal_skills.png)
 
 ## What I Learned
 
