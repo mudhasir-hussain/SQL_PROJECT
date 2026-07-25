@@ -70,7 +70,7 @@ I identified the highest-paying remote Data Analyst positions by filtering for j
 - Remote roles offered significant earning potential.
 - High-paying opportunities existed across multiple industries.
 
-![Top Paying Data Analyst Jobs](SQL_PROJECT/assets/top_paying_jobs.png)
+![Top Paying Data Analyst Jobs](assets/top_paying_jobs.png)
 
 ### 2. Skills Required for Top-Paying Jobs
 
@@ -90,7 +90,7 @@ This analysis examines the technical skills required for the highest-paying Data
 - Python and Tableau were also commonly requested.
 - Employers expected a combination of database, programming, and visualisation skills.
 
-![Skills Required for Top Paying Jobs](SQL_PROJECT/assets/top_paying_job_skills.png)
+![Skills Required for Top Paying Jobs](assets/top_paying_job_skills.png)
 
 ### 3. Most In-Demand Skills
 
